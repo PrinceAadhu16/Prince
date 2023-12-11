@@ -15,3 +15,9 @@ tuple
 
 Thank you:)
 Adarsh G R
+
+Its new Changes are: Individual data types
+init
+float
+complex
+bool
