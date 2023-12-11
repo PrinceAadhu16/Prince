@@ -8,6 +8,13 @@ Dress
 Night pants
 
 
+Its new Changes are: 
+1.Individual data types
+init
+float
+complex
+bool
+
 2. Collection data types are:
 list
 set
@@ -16,8 +23,3 @@ tuple
 Thank you:)
 Adarsh G R
 
-Its new Changes are: Individual data types
-init
-float
-complex
-bool
