@@ -8,6 +8,10 @@ Dress
 Night pants
 
 
+2. Collection data types are:
+list
+set
+tuple
 
 Thank you:)
 Adarsh G R
