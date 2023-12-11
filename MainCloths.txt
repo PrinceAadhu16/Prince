@@ -20,6 +20,11 @@ list
 set
 tuple
 
+from Adarsh
+Dict
+
+
+
 Thank you:)
 Adarsh G R
 
